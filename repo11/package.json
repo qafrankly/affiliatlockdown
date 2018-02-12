@@ -1,13 +1,13 @@
 {
   "thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
-  "tag": "single",
+  "tag": "edit",
   "affiliates":["qafrankly"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
   },
   "defaultProps": {
-    "title": "Test uniqueness",
+    "title": "Test uniqueness edit",
     "titleColor": "#000",
     "backgroundColor": "white",
     "layout": "hero",
